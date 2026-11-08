@@ -17,7 +17,7 @@ The fics you import, their covers, and your tags, ratings, notes and reading pro
 
 ## No internet connection
 
-FiloFic never connects to the internet. It doesn't download stories, check for anything or send anything. The Support link in Settings, and a fic's link to its page on the archive it came from, open in Safari, not in FiloFic.
+FiloFic never connects to the internet. It doesn't download stories, check for anything or send anything. The Support link in Settings, a fic's link to its page on the archive it came from, and any web link you tap in a fic's text open in your web browser, not in FiloFic.
 
 ## Face ID or Touch ID
 
