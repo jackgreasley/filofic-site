@@ -7,13 +7,20 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
-## Coming in the next beta
+## Beta 202611082030 · 8 November 2026
 
 - **A steady scroll bar.** While you scroll, a slim bar at the edge shows how far through the
   whole fic you are. It stays the same size and never jumps as chapters load. EPUBs had no
   scroll bar at all before, and other fics had one that grew, shrank and jumped.
 - **Pictures full size.** Hold your finger on a picture in an EPUB to see it on its own, then
   pinch or double-tap to zoom in.
+- **The lamp comes on.** When FiloFic opens, the lamp in the logo starts switched off and
+  gently lights up.
+- **Release notes in the app.** Settings › About › Release Notes opens this page.
+- **For beta testers: Share Debug Info.** If your library won't open, or opens empty, tap
+  Share Debug Info on the lock screen (or in Settings › About) and send what it makes to the
+  developer. It includes your encrypted library and the key that opens it, so send it only to
+  the developer. This button isn't in the App Store version.
 - **Credits.** Settings › About › Acknowledgements now lists every piece of open-source
   software inside the EPUB reader.
 
