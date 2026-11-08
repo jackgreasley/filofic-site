@@ -9,3 +9,4 @@ A private fan fiction library for iPhone and iPad. Everything stays on your devi
 
 - [Privacy Policy](privacy/)
 - [Support](support/)
+- [Release Notes](release-notes/)
