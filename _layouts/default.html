@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
+{%- for alternate in page.alternates %}
+    <link rel="alternate" hreflang="{{ alternate.hreflang }}" href="{{ alternate.href | absolute_url }}">
+{%- endfor %}
+{%- if page.alternates %}
+    <link rel="alternate" hreflang="x-default" href="{{ page.alternates.first.href | absolute_url }}">
+{%- endif %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>

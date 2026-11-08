@@ -1,9 +1,25 @@
 ---
 layout: default
 title: Authors' Rights and AI
+lang: en
+alternates:
+  - hreflang: en
+    href: /ai/
+  - hreflang: es-419
+    href: /ai/es-419/
+  - hreflang: pt-BR
+    href: /ai/pt-BR/
+  - hreflang: id
+    href: /ai/id/
+  - hreflang: ja
+    href: /ai/ja/
+  - hreflang: ko
+    href: /ai/ko/
 ---
 
 # Authors' Rights and AI
+
+Also in: [Español](es-419/) · [Português](pt-BR/) · [Bahasa Indonesia](id/) · [日本語](ja/) · [한국어](ko/)
 
 Last updated 8 November 2026.
 

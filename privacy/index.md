@@ -1,9 +1,25 @@
 ---
 layout: default
 title: FiloFic Privacy Policy
+lang: en
+alternates:
+  - hreflang: en
+    href: /privacy/
+  - hreflang: es-419
+    href: /privacy/es-419/
+  - hreflang: pt-BR
+    href: /privacy/pt-BR/
+  - hreflang: id
+    href: /privacy/id/
+  - hreflang: ja
+    href: /privacy/ja/
+  - hreflang: ko
+    href: /privacy/ko/
 ---
 
 # FiloFic Privacy Policy
+
+Also in: [Español](es-419/) · [Português](pt-BR/) · [Bahasa Indonesia](id/) · [日本語](ja/) · [한국어](ko/)
 
 FiloFic collects no data. Everything you add is kept on your device, encrypted, and FiloFic never sends it anywhere.
 
