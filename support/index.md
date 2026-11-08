@@ -5,7 +5,7 @@ title: FiloFic Support
 
 # FiloFic Support
 
-FiloFic is a private fan fiction library for iPhone and iPad. It keeps everything on your device, encrypted, and never connects to the internet, so there's no account to recover and nothing we can see or restore for you.
+FiloFic is a private fan fiction library for iPhone and iPad. It keeps everything on your device, encrypted, and never connects to the internet, so there's no account to recover and nothing we can see or restore for you. Your recovery passphrase, if you set one, is the only way back into a backup.
 
 ## Contact
 
@@ -23,8 +23,14 @@ Please say which device and iOS version you have. Never send us your fics or scr
 
 **Can I hide explicit fics?** Yes: Settings › Library › Hide Explicit Fics keeps fics rated Explicit out of the library, search and browsing.
 
-**Is there a backup?** No. The library is deliberately kept out of iCloud and device backups. Keep your original files if you may want them again.
+**Is there a backup?** Only if you set a recovery passphrase, in Settings › Backup. Then your library, still encrypted, is included in your device's backups, and in iCloud Backup if it's on. Without a passphrase nothing is backed up, because a backup couldn't be opened. Nobody can open a backup without the passphrase, Apple included, and nobody can recover a forgotten one: write it down somewhere safe.
 
-**How do I delete everything?** Delete the FiloFic app. The library is gone for good.
+**What happens on a new device, or if Face ID changes?** Changing Face ID or Touch ID deletes the key that opens your library, and a new device restored from a backup starts without it. With a recovery passphrase set, FiloFic asks for it and opens the library again. Without one, the library can't be read and has to be erased.
 
-Privacy policy: see FiloFic › Settings › About › Privacy Policy, or the [privacy page](../privacy/).
+**Can FiloFic keep my passphrase for me?** If you turn on Save in iCloud Keychain (it's off unless you do), the passphrase is kept in your iCloud Keychain, end-to-end encrypted, and a new device can use it instead of you typing it. The trade-off: someone with your Apple Account and a device passcode could then open your library from an iCloud backup. With it off, they'd need the passphrase too.
+
+**How do I move my library to another device, or keep a copy on a Mac?** Settings › Backup › Export Library makes one `.filoficlibrary` file of the encrypted library, locked with your passphrase. Save it to Files, a drive or a Mac. To bring it back, open the file in FiloFic, or use Import Library, and enter the passphrase. Importing replaces the library on that device, after asking twice.
+
+**How do I delete everything?** Settings › Clear Library deletes the library, your recovery passphrase and any copy of it in iCloud Keychain. Deleting the FiloFic app deletes the library too. Device backups and library files you exported keep their encrypted copy until you delete them.
+
+Privacy policy: see FiloFic › Settings › About › Privacy Policy, or the privacy page.
