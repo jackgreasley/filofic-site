@@ -7,6 +7,28 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611082113 · 8 November 2026
+
+- **FiloFic in five more languages.** Spanish (Latin America), Brazilian Portuguese,
+  Indonesian, Japanese and Korean, chosen in your iPhone's settings. Moods and tags show in your
+  language, and you can search with those names too. Your own fics, tags and fandoms stay as
+  you wrote them.
+- **Backups you control.** Set a recovery passphrase in Settings › Backup and your library is
+  included in your device's backups, still encrypted. On a new phone, or after a Face ID
+  change, Recover Your Library brings it back with your passphrase. You can also keep the
+  passphrase in iCloud Keychain. Nobody can open a backup without it, Apple included.
+- **Export and import your library** as one encrypted file, to keep a copy or move to a new
+  device.
+- **Apple Intelligence is off until you turn it on.** No AI reads your fics or searches unless
+  you choose to. Turn it on in Settings › Apple Intelligence to have FiloFic suggest fandoms,
+  ships, moods and summaries. You can remove everything it suggested at any time.
+- **Authors' Rights and AI**, in Settings › About: we never train AI on fics, never collect
+  them and never let them be collected.
+- **Both policies in every language**, with dates in your language's style.
+
+To start fresh with this beta, delete FiloFic and install it again from TestFlight, then
+import your EPUBs. Libraries from the first betas can take a very long time to open.
+
 ## Beta 202611082030 · 8 November 2026
 
 - **A steady scroll bar.** While you scroll, a slim bar at the edge shows how far through the
