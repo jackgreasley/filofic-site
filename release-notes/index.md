@@ -5,8 +5,7 @@ title: FiloFic Release Notes
 
 # What's new in FiloFic
 
-The newest release comes first. Each beta in TestFlight gets its own section here, published
-at https://jackgreasley.github.io/filofic-site/release-notes/.
+The newest release comes first.
 
 ## Coming in the next beta
 
