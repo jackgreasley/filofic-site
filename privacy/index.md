@@ -31,6 +31,10 @@ FiloFic has no account, no analytics, no advertising and no tracking, and the de
 
 The fics you import, with the original file of each EPUB, their covers, and your tags, ratings, notes and reading progress are kept in one library on this device, encrypted with AES-256. A few display preferences, such as the theme and the library layout, are kept in FiloFic's settings on the device, which iOS includes in its backups.
 
+## Your reading history
+
+When you read, FiloFic keeps a record of it for your Calendar: which fic, the day and time you started, how long you read and how far you got. It's kept in your library on this device, encrypted, like everything else, and goes only where your library goes: into backups if you've set a recovery passphrase, and into a library you export. FiloFic never sends it anywhere. Settings › Reading History › Clear Reading History deletes it.
+
 ## Backups and your recovery passphrase
 
 Without a recovery passphrase, your library isn't included in device backups and isn't stored in iCloud. If you set one in Settings › Backup, the library, still encrypted, is included in this device's backups, and in iCloud Backup if it's turned on, so it can be restored to a new device. Its key is kept beside it, locked with your passphrase, which FiloFic doesn't store. Nobody can open the library without the passphrase: not the developer, not Apple, not anyone who has the backup. You can also choose to save the passphrase in your iCloud Keychain, end-to-end encrypted; it's off unless you turn it on. With it on, someone with your Apple Account and a device passcode could open your library from a backup. Export Library makes one file of the encrypted library, locked the same way, which goes only where you send it.

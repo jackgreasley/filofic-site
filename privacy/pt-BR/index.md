@@ -33,6 +33,10 @@ O FiloFic não tem conta, análise de dados, publicidade nem rastreamento, e o d
 
 As fics que você importa, com o arquivo original de cada EPUB, as capas e suas tags, avaliações, anotações e progresso de leitura, ficam em uma única biblioteca neste dispositivo, criptografada com AES-256. Algumas preferências de exibição, como o tema e o layout da biblioteca, ficam nos ajustes do FiloFic no dispositivo, que o iOS inclui nos backups.
 
+## Seu histórico de leitura
+
+Quando você lê, o FiloFic registra isso para o seu Calendário: qual fic, o dia e a hora em que você começou, por quanto tempo leu e até onde chegou. Esse registro fica na sua biblioteca neste dispositivo, criptografado, como todo o resto, e só vai aonde a sua biblioteca vai: para os backups, se você tiver definido uma senha de recuperação, e para uma biblioteca que você exportar. O FiloFic nunca o envia para lugar nenhum. Ajustes › Histórico de Leitura › Apagar Histórico de Leitura o apaga.
+
 ## Backups e sua senha de recuperação
 
 Sem uma senha de recuperação, sua biblioteca não entra nos backups do dispositivo e não fica armazenada no iCloud. Se você definir uma em Ajustes › Backup, a biblioteca, ainda criptografada, entra nos backups deste dispositivo e no Backup do iCloud, se estiver ativado, para que possa ser restaurada em um novo dispositivo. A chave dela fica junto, protegida pela sua senha, que o FiloFic não armazena. Ninguém consegue abrir a biblioteca sem a senha: nem o desenvolvedor, nem a Apple, nem quem tiver o backup. Você também pode escolher salvar a senha nas suas Chaves do iCloud, com criptografia de ponta a ponta; isso fica desativado, a não ser que você o ative. Com isso ativado, alguém com a sua Conta Apple e o código de um dispositivo poderia abrir sua biblioteca a partir de um backup. Exportar Biblioteca cria um único arquivo da biblioteca criptografada, protegido da mesma forma, que vai só para onde você o enviar.

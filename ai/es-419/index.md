@@ -36,7 +36,7 @@ El fanfiction lo escriben personas, para personas, y se regala por amor. FiloFic
 
 ## Apple Intelligence: desactivado a menos que lo actives
 
-FiloFic puede usar Apple Intelligence para sugerir el fandom, el ship, el tono y un resumen breve de un fic, y para entender búsquedas escritas con tus propias palabras. Está **desactivado hasta que lo actives**, en Configuración › Apple Intelligence. Mientras está desactivado, ninguna IA lee tus fics, resúmenes, etiquetas ni búsquedas.
+FiloFic puede usar Apple Intelligence para sugerir el fandom, el ship, el mood y un resumen breve de un fic, y para entender búsquedas escritas con tus propias palabras. Está **desactivado hasta que lo actives**, en Configuración › Apple Intelligence. Mientras está desactivado, ninguna IA lee tus fics, resúmenes, etiquetas ni búsquedas.
 
 Si lo activas:
 

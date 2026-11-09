@@ -33,6 +33,10 @@ FiloFic tidak punya akun, analitik, iklan, atau pelacakan, dan developer tidak p
 
 Fic yang kamu impor, beserta file asli setiap EPUB, sampulnya, serta tag, rating, catatan, dan progres bacamu, disimpan dalam satu perpustakaan di perangkat ini, dienkripsi dengan AES-256. Beberapa preferensi tampilan, seperti tema dan tata letak perpustakaan, disimpan di pengaturan FiloFic di perangkat, yang ikut dimasukkan iOS ke dalam cadangannya.
 
+## Riwayat bacamu
+
+Saat kamu membaca, FiloFic mencatatnya untuk Kalendermu: fic yang mana, hari dan jam kamu mulai, berapa lama kamu membaca, dan sampai mana kamu membaca. Catatan ini disimpan di perpustakaanmu di perangkat ini, terenkripsi, seperti semua hal lainnya, dan hanya ikut ke tempat perpustakaanmu ikut: ke cadangan jika kamu sudah mengatur frasa sandi pemulihan, dan ke perpustakaan yang kamu ekspor. FiloFic tidak pernah mengirimnya ke mana pun. Pengaturan › Riwayat Baca › Hapus Riwayat Baca akan menghapusnya.
+
 ## Cadangan dan frasa sandi pemulihanmu
 
 Tanpa frasa sandi pemulihan, perpustakaanmu tidak ikut masuk ke cadangan perangkat dan tidak disimpan di iCloud. Jika kamu mengaturnya di Pengaturan › Cadangan, perpustakaan, tetap dalam keadaan terenkripsi, ikut masuk ke cadangan perangkat ini, dan ke Cadangan iCloud jika fitur itu menyala, sehingga bisa dipulihkan ke perangkat baru. Kuncinya disimpan bersamanya, dikunci dengan frasa sandimu, yang tidak disimpan oleh FiloFic. Tidak ada yang bisa membuka perpustakaan tanpa frasa sandi: tidak developer, tidak Apple, tidak juga siapa pun yang memegang cadangannya. Kamu juga bisa memilih untuk menyimpan frasa sandi di Rantai Kunci iCloud-mu, dengan enkripsi end-to-end; pilihan ini mati kecuali kamu menyalakannya. Jika menyala, orang yang memegang Akun Apple-mu dan kode sandi perangkat bisa membuka perpustakaanmu dari cadangan. Ekspor Perpustakaan membuat satu file dari perpustakaan yang terenkripsi, dikunci dengan cara yang sama, yang hanya menuju ke tempat yang kamu tuju.

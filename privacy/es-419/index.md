@@ -33,6 +33,10 @@ FiloFic no tiene cuenta, ni analíticas, ni publicidad, ni rastreo, y el desarro
 
 Los fics que importas, con el archivo original de cada EPUB, sus portadas y tus etiquetas, calificaciones, notas y progreso de lectura, se guardan en una sola biblioteca en este dispositivo, cifrada con AES-256. Algunas preferencias de visualización, como el tema y la vista de la biblioteca, se guardan en la configuración de FiloFic en el dispositivo, que iOS incluye en sus respaldos.
 
+## Tu historial de lectura
+
+Cuando lees, FiloFic guarda un registro de ello para tu Calendario: qué fic, el día y la hora en que empezaste, cuánto tiempo leíste y hasta dónde llegaste. Se guarda en tu biblioteca en este dispositivo, cifrado, como todo lo demás, y solo va a donde va tu biblioteca: a los respaldos si configuraste una contraseña de recuperación, y a una biblioteca que exportes. FiloFic nunca lo envía a ningún lado. Configuración › Historial de lectura › Borrar historial de lectura lo elimina.
+
 ## Respaldos y tu contraseña de recuperación
 
 Sin una contraseña de recuperación, tu biblioteca no se incluye en los respaldos del dispositivo ni se guarda en iCloud. Si configuras una en Configuración › Respaldo, la biblioteca, aún cifrada, se incluye en los respaldos de este dispositivo, y en Respaldo en iCloud si está activado, para que se pueda restaurar en un dispositivo nuevo. Su clave se guarda junto a ella, protegida con tu contraseña, que FiloFic no guarda. Nadie puede abrir la biblioteca sin la contraseña: ni el desarrollador, ni Apple, ni nadie que tenga el respaldo. También puedes elegir guardar la contraseña en tu llavero de iCloud, con cifrado de extremo a extremo; está desactivado a menos que lo actives. Si está activado, alguien con tu cuenta de Apple y un código de dispositivo podría abrir tu biblioteca desde un respaldo. Exportar biblioteca crea un solo archivo con la biblioteca cifrada, protegido de la misma forma, que solo va a donde tú lo envíes.
@@ -47,7 +51,7 @@ La clave de tu biblioteca se guarda en el llavero de este dispositivo y solo se 
 
 ## Apple Intelligence
 
-Apple Intelligence está desactivado hasta que lo actives en Configuración › Apple Intelligence. Si está activado, en los modelos de iPhone y iPad compatibles, FiloFic puede sugerir el fandom, el ship, el tono y un resumen breve de un fic, y entender búsquedas escritas con tus propias palabras. Para esto usa el modelo de Apple en el propio dispositivo: no se envía nada a Apple ni a nadie más.
+Apple Intelligence está desactivado hasta que lo actives en Configuración › Apple Intelligence. Si está activado, en los modelos de iPhone y iPad compatibles, FiloFic puede sugerir el fandom, el ship, el mood y un resumen breve de un fic, y entender búsquedas escritas con tus propias palabras. Para esto usa el modelo de Apple en el propio dispositivo: no se envía nada a Apple ni a nadie más.
 
 ## Compartir es tu decisión
 
