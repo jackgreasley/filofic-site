@@ -7,6 +7,51 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611090831 · 9 November 2026
+
+- **Mark as read from the library.** Swipe a fic's card to mark it read or unread, or use its
+  long-press menu. Undo is right there. It doesn't add anything to your Calendar.
+- **Smaller summaries, more of them.** Settings › Library › Summary text: Tiny, Small, Normal
+  or Large.
+- **Favourite authors.** Heart an author on their page, and a Favourite Authors tab shows
+  their fics.
+- **Heart a series** on its page, or several at once in Select. Loved series show in the
+  Loved tab.
+- **Series, clearer.**
+  - Auto Series says "2 of 13 parts", labels each fic as a part, and shows where parts are
+    missing.
+  - Look Again searches your library for series once more.
+  - Tap any fic's title while making or editing a series to see its cover and summary.
+  - On a series' page, press and hold a fic, then drag it into place.
+- **Assign Tag.** Type to find one of your tags, by its name or its emoji's, and tap to put
+  it on the fic. Making a new tag is the last row.
+  - Emoji search by name works now ("sad", "fire").
+- **Length filters** go from Under 20K to 500K+, in six steps, and you can pick more than one.
+- **😫 for Angst.**
+- **A grey reader theme**: light grey text on mid grey.
+- **Pictures in EPUBs.** Tap beside a picture to close it, pinch or double-tap to zoom, save
+  it to Photos or Files, or use it as the fic's cover.
+- **On iPad,** EPUBs no longer slide under the sidebar.
+- **Gentler categorising.** It works one fic at a time with rests between, and steps aside in
+  Low Power Mode, when your phone is warm and while FiloFic isn't on screen. Pause, Resume
+  and Stop are on its status line and in Settings.
+- **Search in Japanese, Chinese and Korean** now finds words inside the text, and their word
+  counts are right. Your library is updated in the background the first time.
+- **Project Gutenberg books get their real chapters,** without the licence pages. EPUBs
+  already in your library are split again in the background, keeping your place.
+- **Share a book to FiloFic** from Files, including books saved as folders, and Markdown and
+  XHTML files.
+- **RTF files** can be imported.
+- **Thank the author.** Fics from AO3 have Leave Kudos and Comment buttons, which open the
+  work in your browser.
+- **Fixes:**
+  - "&amp;" no longer shows instead of "&" in titles and tags;
+  - tags that come with a file are the fic's tags, not your own;
+  - Gutenberg subjects read as plain tags ("Whaling ships");
+  - the same AO3 work imported twice is caught as a duplicate.
+
+  Fics already in your library are tidied in the background.
+
 ## Beta 202611090543 · 9 November 2026
 
 - **The Calendar.** Tap the big Library title to switch to your Calendar, and tap Calendar to
