@@ -7,6 +7,24 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611090248 · 9 November 2026
+
+- **Series.** Fics that come in instalments can be grouped into a series, shown in your library
+  as one entry: a stack of covers marked "Series", with its title, author, fandom and how many
+  you've read ("Read 5 of 12"). Tap it to see its fics in order. You still read one fic at a
+  time; a series just keeps them together.
+- **Make a series your way.** Tap Select, pick the fics, then Series › Create Series. Drag them
+  into the right order, remove any you picked by mistake, and choose which cover goes on top.
+  Fics can be added to a series or taken out later, and the order changed at any time.
+- **Auto Series.** FiloFic can look through your library for fics that belong together, using
+  the "Part 3 of …" line archives put in their files, and says how many it found. Nothing is
+  grouped until you accept it. New parts of a series you already have join it when you import
+  them.
+- **Series in search.** Search finds a series by its title, author, fandom or tags. Fics in a
+  series say which part they are.
+- **Series in your backups.** Exporting your library, and your device backups, keep your
+  series as you arranged them.
+
 ## Beta 202611082113 · 8 November 2026
 
 - **FiloFic in five more languages.** Spanish (Latin America), Brazilian Portuguese,
