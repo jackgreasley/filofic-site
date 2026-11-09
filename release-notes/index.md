@@ -7,6 +7,38 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611092217 · 9 November 2026
+
+- **Big books import in a moment.** Shakespeare's Complete Works, 900 chapters, used to take
+  most of a minute to read and now takes about a second. Every EPUB, HTML and web page imports
+  faster too.
+- **Add Fic Manually says when it's reading a file,** and Save waits until it's done.
+- **What an import did shows as a toast** at the top of the library, which goes by itself,
+  instead of an alert you have to close.
+- **Every fic gets a summary when it's categorised, adult fics too.** A fic's own summary
+  always comes first, including the one AO3 prints on a fic's first pages. When Apple
+  Intelligence won't write one, the fic's opening lines stand in. Only when there's nothing
+  at all does it say so.
+- **Categorising is quicker.**
+  - A fic whose tags already name its moods, such as Angst, Fluff or Hurt/Comfort, gets them
+    from its tags without Apple Intelligence.
+  - Fics that come with a summary are read in less time.
+  - On a test library, a third of the fics needed no Apple Intelligence at all.
+- **Tiny is the summary text size** to start with. Settings › Library › Summary text changes
+  it.
+- **Assign Tag groups your tags:** the ones you made first, then FiloFic's, then the ones that
+  came with the fic, each under its own heading.
+- **Clear Library shows how it's getting on** over the whole screen until your new library
+  opens, instead of leaving you looking at the old one.
+- **The book's own cover is always a choice.** After using a picture from inside an EPUB as
+  the cover, Choose a Cover still offers the original, so you can have it back.
+- **Pictures open fitted to the screen,** below their buttons, which stay easy to see even
+  over a white page, and without a jump.
+- **A quieter empty library,** with just its buttons.
+- **The Calendar sums your reading** instead of listing every session. A day says "3 fics ·
+  10 sessions · 2h 2m · 5K words" and shows each fic once, and a fic's details sum all its
+  reads, so each fits on one screen.
+
 ## Beta 202611090831 · 9 November 2026
 
 - **Mark as read from the library.** Swipe a fic's card to mark it read or unread, or use its
