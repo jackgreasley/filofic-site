@@ -43,7 +43,7 @@ Sem uma senha de recuperação, sua biblioteca não entra nos backups do disposi
 
 ## Sem conexão com a internet
 
-O FiloFic nunca se conecta à internet. Ele não baixa histórias, não verifica nada e não envia nada. Os backups e as Chaves do iCloud são do próprio iOS, e quem os envia é o iOS, não o FiloFic. Um EPUB pode pedir imagens, fontes ou páginas da internet; o FiloFic bloqueia todos esses pedidos, então um livro mostra só o que está dentro dele. Os links Suporte e Notas da Versão em Ajustes, o link para a página da Apple em Direitos dos Autores e IA, o link de uma fic para a página dela no site de onde veio e os links da web no texto de uma fic abrem no seu navegador, não no FiloFic.
+O FiloFic nunca se conecta à internet. Ele não baixa histórias, não verifica nada e não envia nada. Os backups e as Chaves do iCloud são do próprio iOS, e quem os envia é o iOS, não o FiloFic. Um EPUB pode pedir imagens, fontes ou páginas da internet; o FiloFic bloqueia todos esses pedidos, então um livro mostra só o que está dentro dele. Os links Suporte e Notas da Versão em Ajustes, o link para a página da Apple em Direitos dos Autores e IA, o link de uma fic para a página dela no site de onde veio, os botões Deixar Kudos e Comentar de uma fic do Archive of Our Own e os links da web no texto de uma fic abrem no seu navegador, não no FiloFic.
 
 ## Face ID ou Touch ID
 
@@ -55,7 +55,7 @@ A Apple Intelligence fica desativada até você ativá-la em Ajustes › Apple I
 
 ## Compartilhar é escolha sua
 
-Uma fic só sai do FiloFic quando você a compartilha ou a envia para o seu Kindle, e a biblioteca só sai quando você a exporta. Nesse caso, ela passa pelo app que você escolher, como o Mail ou o Arquivos, e vale a política de privacidade desse app.
+Uma fic só sai do FiloFic quando você a compartilha ou a envia para o seu Kindle, e a biblioteca só sai quando você a exporta. Nesse caso, ela passa pelo app que você escolher, como o Mail ou o Arquivos, e vale a política de privacidade desse app. Uma imagem de um livro só sai quando você a salva ou a compartilha a partir do leitor. Para salvar uma com Salvar Imagem, o iOS pede uma vez para deixar o FiloFic adicionar ao Fotos: o FiloFic só pode adicionar imagens lá, nunca ver o que há no Fotos.
 
 ## Apagar tudo
 

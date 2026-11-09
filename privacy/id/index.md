@@ -43,7 +43,7 @@ Tanpa frasa sandi pemulihan, perpustakaanmu tidak ikut masuk ke cadangan perangk
 
 ## Tanpa koneksi internet
 
-FiloFic tidak pernah terhubung ke internet. FiloFic tidak mengunduh cerita, tidak memeriksa apa pun, dan tidak mengirim apa pun. Cadangan dan Rantai Kunci iCloud adalah milik iOS sendiri, dan iOS yang mengirimnya, bukan FiloFic. EPUB bisa meminta gambar, font, atau halaman dari internet; FiloFic memblokir setiap permintaan seperti itu, jadi buku hanya menampilkan apa yang ada di dalamnya. Tautan Dukungan dan Catatan Rilis di Pengaturan, tautan ke halaman Apple di Hak Penulis dan AI, tautan fic ke halamannya di arsip asalnya, dan tautan web di dalam teks fic terbuka di browser-mu, bukan di FiloFic.
+FiloFic tidak pernah terhubung ke internet. FiloFic tidak mengunduh cerita, tidak memeriksa apa pun, dan tidak mengirim apa pun. Cadangan dan Rantai Kunci iCloud adalah milik iOS sendiri, dan iOS yang mengirimnya, bukan FiloFic. EPUB bisa meminta gambar, font, atau halaman dari internet; FiloFic memblokir setiap permintaan seperti itu, jadi buku hanya menampilkan apa yang ada di dalamnya. Tautan Dukungan dan Catatan Rilis di Pengaturan, tautan ke halaman Apple di Hak Penulis dan AI, tautan fic ke halamannya di arsip asalnya, tombol Beri Kudos dan Komentar pada fic dari Archive of Our Own, dan tautan web di dalam teks fic terbuka di browser-mu, bukan di FiloFic.
 
 ## Face ID atau Touch ID
 
@@ -55,7 +55,7 @@ Apple Intelligence mati sampai kamu menyalakannya di Pengaturan › Apple Intell
 
 ## Berbagi adalah pilihanmu
 
-Fic hanya keluar dari FiloFic jika kamu membagikannya atau mengirimnya ke Kindle-mu, dan perpustakaan hanya keluar jika kamu mengekspornya. Setelah itu, fic atau perpustakaan dikirim melalui app yang kamu pilih, seperti Mail atau File, dan kebijakan privasi app itu yang berlaku.
+Fic hanya keluar dari FiloFic jika kamu membagikannya atau mengirimnya ke Kindle-mu, dan perpustakaan hanya keluar jika kamu mengekspornya. Setelah itu, fic atau perpustakaan dikirim melalui app yang kamu pilih, seperti Mail atau File, dan kebijakan privasi app itu yang berlaku. Gambar dari buku hanya keluar jika kamu menyimpannya atau membagikannya dari mode baca. Untuk menyimpannya dengan Simpan Gambar, iOS meminta izin sekali agar FiloFic bisa menambahkan ke Foto: FiloFic hanya bisa menambahkan gambar ke sana, tidak pernah melihat isi Foto.
 
 ## Menghapus semuanya
 

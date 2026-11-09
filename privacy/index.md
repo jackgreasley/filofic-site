@@ -41,7 +41,7 @@ Without a recovery passphrase, your library isn't included in device backups and
 
 ## No internet connection
 
-FiloFic never connects to the internet. It doesn't download stories, check for anything or send anything. Backups and iCloud Keychain are iOS's own, and iOS sends them, not FiloFic. An EPUB can ask for pictures, fonts or pages from the internet; FiloFic blocks every such request, so a book shows only what's inside it. The Support and Release Notes links in Settings, the link to Apple's page in Authors' Rights and AI, a fic's link to its page on the archive it came from, and the web links in a fic's text open in your browser, not in FiloFic.
+FiloFic never connects to the internet. It doesn't download stories, check for anything or send anything. Backups and iCloud Keychain are iOS's own, and iOS sends them, not FiloFic. An EPUB can ask for pictures, fonts or pages from the internet; FiloFic blocks every such request, so a book shows only what's inside it. The Support and Release Notes links in Settings, the link to Apple's page in Authors' Rights and AI, a fic's link to its page on the archive it came from, the Leave Kudos and Comment buttons on a fic from Archive of Our Own, and the web links in a fic's text open in your browser, not in FiloFic.
 
 ## Face ID or Touch ID
 
@@ -53,7 +53,7 @@ Apple Intelligence is off until you turn it on in Settings › Apple Intelligenc
 
 ## Sharing is up to you
 
-A fic leaves FiloFic only when you share it or send it to your Kindle, and the library only when you export it. It then goes through the app you choose, such as Mail or Files, and that app's privacy policy applies.
+A fic leaves FiloFic only when you share it or send it to your Kindle, and the library only when you export it. It then goes through the app you choose, such as Mail or Files, and that app's privacy policy applies. A picture from a book leaves only when you save or share it from the reader. To save one with Save Image, iOS asks once to let FiloFic add to Photos: FiloFic can only add pictures there, never see what's in Photos.
 
 ## Deleting everything
 
