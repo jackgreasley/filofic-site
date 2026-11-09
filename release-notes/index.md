@@ -7,6 +7,27 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611090543 · 9 November 2026
+
+- **The Calendar.** Tap the big Library title to switch to your Calendar, and tap Calendar to
+  switch back. It shows what you read and when: a day, a week, a month, a year or everything
+  you've ever read, as covers or as book spines on a shelf. A little sun or moon shows whether
+  you read by day or at night, and a short line sums up your reading ("Who needs sleep?",
+  "Short and sweet.", "A chapter closer."). Tap any book to see each time you read it.
+- **Top fics.** The fics you've read most, at the top of All time.
+- **Plan what to read next.** The TBR shelf holds every fic you haven't started. Drag them
+  into the order you want, and the library's To read tab follows the same order. Up next is
+  always the first; Surprise me picks one for you. A series offers its next part only.
+- **It starts today.** The Calendar fills in as you read from now on. Fics you read before
+  this beta aren't on it.
+- **Clear Reading History**, in Settings, deletes your Calendar, reading days and milestones,
+  and keeps your fics and where you are in them.
+- **For beta testers:** Settings › Reading History can make up a few years of reading, light,
+  medium or heavy, from your own library, so you can see the Calendar full. Clear Generated
+  History Only takes it away again, keeping your real reading.
+- **Searching on the Series tab** finds a series by its own title, author, fandom or tags, and
+  the count says how many series it found.
+
 ## Beta 202611090412 · 9 November 2026
 
 - **Import from Files works again.** In the last beta, choosing Import from Files from the +
