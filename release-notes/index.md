@@ -7,6 +7,11 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611090412 · 9 November 2026
+
+- **Import from Files works again.** In the last beta, choosing Import from Files from the +
+  menu, or from an empty library, did nothing. It opens Files again, for every kind of file.
+
 ## Beta 202611090248 · 9 November 2026
 
 - **Series.** Fics that come in instalments can be grouped into a series, shown in your library
