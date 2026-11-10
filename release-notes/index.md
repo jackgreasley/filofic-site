@@ -7,6 +7,40 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611100539 · 10 November 2026
+
+- **Hands Free reading.** A third paging choice beside Scroll and Paginated, in the reader's Aa
+  sheet and on You.
+  - Tap the big Play button and the text moves up by itself at the lines a minute you choose,
+    from 1 to 200, 20 to start with. Hold + or − on You to change it quickly.
+  - A tap on the page stops it and brings back the bars. Choosing a chapter, opening Aa or
+    leaving the app stops it too, and dragging the text takes over by hand.
+  - It runs on through the chapters, stops at the end of the fic, and keeps the screen on while
+    it moves.
+  - A band across the middle of the screen lights up the line passing through it, fading over
+    the lines either side, to help you keep your place. It looks alike on every page colour,
+    in blue, green, yellow, rose or violet, or it can be off, on You and in the Aa sheet.
+  - You's Preview scrolls a longer passage at the chosen speed.
+- **Colour on You:** the reader's Light, Paper, Grey and Dark pages, beside Paging.
+- **Paging** is the Aa sheet's name for Scroll, Paginated and Hands Free, as on You.
+- **A new look, and a tab bar.** Library, Calendar and You sit along the bottom.
+  - **You** has your reading at a glance, the reader's text size, font and paging with a
+    preview, the theme, the library's layout and covers, and your tags, with New Tag first.
+  - **Settings** is behind the gear on You, in order: Backup, Apple Intelligence, your data,
+    Kindle, a Danger Zone holding both clears, then About. Its explanations are behind ?
+    buttons instead of under the rows.
+  - **A blue dot on the gear** says the library isn't backed up yet, and the same dot in
+    Settings marks where.
+- **A simpler library header:** + for Import, Add Fic and Find Series, and Select Fics beside
+  it. Sort is in the filter sheet and the layouts are on You.
+- **Where you left off** heads the library as a card. Tap it to read on, or long-press it for
+  the fic's page.
+- **Continue names the real chapter,** a preface included, as the fic's chapter list does.
+- **Tags can be deleted** from the tag's editor.
+- **Find Series** is the new name for Auto Series, in the menu and on its sheet.
+- **Restore from a Library File** has moved into Settings, under Backup.
+- **The Calendar's details** just open the fic: Go to That Day has gone.
+
 ## Beta 202611092217 · 9 November 2026
 
 - **Big books import in a moment.** Shakespeare's Complete Works, 900 chapters, used to take
