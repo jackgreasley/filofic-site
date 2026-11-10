@@ -7,6 +7,44 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611102013 · 10 November 2026
+
+- **Big libraries are fast.** Made for libraries of 500 fics and more.
+  - Typing in search is always smooth: the results follow a moment after you stop typing,
+    and never hold up the keyboard.
+  - The library loads in a tenth of the time, and searching inside the text of every fic is
+    many times quicker. The first unlock after updating takes a moment longer, once, while
+    FiloFic sets this up.
+  - Library, Calendar and You switch instantly, and each comes back just as you left it.
+- **The fic you're reading opens at once.** FiloFic gets it ready while Where you left off
+  shows, so Resume goes straight to the text. Every fic opens sooner too.
+- **Where you left off stays with you.** Scroll down the library and the card shrinks to a
+  line with the fic's name and Resume, which stays at the top; scroll back up and it grows
+  into the card again.
+- **The fic you're reading never disappears.** With Hide Explicit Fics on, a fic you're
+  partway through is no longer hidden because categorising guessed it spicy. The archive's
+  Explicit rating, or a Spiciness score you set yourself, still hides it.
+- **Tidier details from more archives.**
+  - Every HTML character name is read, so titles like "TtH &bull; Story &bull; The Wish"
+    become "The Wish".
+  - Fandoms, ships and tags written as links, as SquidgeWorld's downloads have them, show as
+    plain names.
+  - A title that's an archive's whole page title, "Title - author - fandom", is split into
+    the title and the author.
+  - Fics already in your library are tidied in the background.
+- **Hands Free's guide waits for the text.** It fades in once the words are on the page,
+  never over an empty screen.
+- **Settings shows FiloFic's real size,** everything it keeps on the device, as iPhone
+  Storage counts it.
+- **Less room on your device.**
+  - Covers take about a third of the room they did. Existing covers are made smaller in the
+    background.
+  - Nothing is left behind in temporary storage: an exported library file goes when the
+    library locks, and anything else left over goes when FiloFic next opens.
+- **Test builds:** Developer has a Storage section showing where FiloFic's room goes, set
+  against what iPhone Storage counts, with every table and index in the library measured on
+  request.
+
 ## Beta 202611100539 · 10 November 2026
 
 - **Hands Free reading.** A third paging choice beside Scroll and Paginated, in the reader's Aa
