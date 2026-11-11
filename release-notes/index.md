@@ -7,6 +7,29 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611110312 · 11 November 2026
+
+- **Find Series shows covers.** Each suggested part has its cover beside it, and tapping one
+  shows its details, then swipe to see the series' other fics in order. The same on a
+  series' Edit list.
+- **An import's summary goes by itself** after a few seconds.
+- **Hands Free starts faster,** at 50 lines a minute instead of 20. A speed you've chosen
+  stays as it is.
+- **Much less room on your device.** A fic kept as its EPUB no longer keeps a second copy of
+  its text: the EPUB is its text, and search finds its words in an index that keeps none of
+  its own. On a big library that's close to half of FiloFic's size.
+  - It's set up in the background after you update, a batch at a time, with search working
+    throughout. The next time you unlock after that, FiloFic gives the room back to your
+    device, which takes a moment, once: it says "Making room on your device".
+  - If a fic's EPUB can't be shown, the reader says so.
+- **Fics' details read as they should, from every archive.** Titles lose the site's words
+  around them, "| FanFiction", "[Archive of Our Own]", "| SpaceBattles", "- Wattpad", along
+  with chapter numbers and tags like "(Complete)", "[WIP]" or "(Worm/OC)"; the author comes
+  from the title when the page names one there. Garbled characters such as "Donâ€™t" are put
+  right, and stray HTML, BBCode, Markdown and invisible characters go, from titles, authors,
+  fandoms, ships, tags, summaries and series. Fics already in your library are tidied in the
+  background.
+
 ## Beta 202611102013 · 10 November 2026
 
 - **Big libraries are fast.** Made for libraries of 500 fics and more.
