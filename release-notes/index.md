@@ -7,6 +7,34 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611120432 · 12 November 2026
+
+- **Highlights and bookmarks.** Hold some text and Highlight it in one tap, in the colour
+  you chose last; the colour button beside it opens the swatches. Tap a highlight to change
+  its colour or take it off. Bookmark from the same menu, and a small blue bookmark marks its
+  first word.
+  - The bookmark at the top shows your bookmarks in the text or hides them. Hold it for the
+    list of bookmarks and highlights, with Previous and Next to go from one to the next.
+  - The fic's page lists them, the latest first, each among the words around it. Swipe one
+    to take it off.
+- **Selections in EPUBs stretch.** Drag a selection's handles to take in more words.
+- **Back to where you'd got to.** Read back a way, tap for the bars, and the progress pill
+  offers Furthest, which takes you back. Read Again and Mark as Unread start afresh.
+- **The fic's page** opens on its cover, title and Continue, as large as fits, and shrinks
+  them to a bar as you scroll down to everything else.
+- **Works in progress keep up.** Update from File, in a fic's ⋯ menu, brings it up to date
+  from a newer download, with your place, highlights, bookmarks, tags and reading history
+  kept. An older file, or one that seems another fic, is checked with you first, side by side
+  with yours. Highlights and bookmarks whose words aren't in the new version are kept and
+  marked, and you're told.
+  - Importing a folder does the same: several downloads of one fic come in once, as the
+    latest, and fics already in your library are brought up to date, never taken back. The
+    summary says which, by title.
+- **At the end of a fic from AO3,** after its last words: a word about your read, then
+  Kudos, Comment, the work on AO3 and more by its author. Kudos and Comment are in the
+  reader's progress pill too.
+- **Where you left off** has a button to the fic's page.
+
 ## Beta 202611110312 · 11 November 2026
 
 - **Find Series shows covers.** Each suggested part has its cover beside it, and tapping one
