@@ -7,6 +7,21 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611120835 · 12 November 2026
+
+- **Search within a fic.** With the bars showing, swipe down on the top bar to search the
+  fic you're reading. Matches are listed by chapter, each among the words around it; tap
+  one to go there, and step through the rest with the arrows.
+- **Furthest, rebuilt.** The furthest point is wherever you've got to, however you got
+  there: reading, Hands Free, the scrubber or a jump. It's kept the moment you're there,
+  even if FiloFic is closed straight after. Go back a few paragraphs, show the bars, and
+  Furthest takes you back. In a long fic too.
+- **A calm start.** Opening FiloFic shows only the logo. "Unlocking your library" appears
+  only if unlocking takes more than a second, and the Unlock button only if Face ID is
+  cancelled.
+- **Taps between chapters.** In an EPUB, a tap in the space between two chapters, or above
+  the end of the fic, shows the bars.
+
 ## Beta 202611120432 · 12 November 2026
 
 - **Highlights and bookmarks.** Hold some text and Highlight it in one tap, in the colour
