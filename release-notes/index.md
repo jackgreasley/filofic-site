@@ -7,6 +7,15 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611121834 · 12 November 2026
+
+- **Search keeps the keyboard.** In a fic whose title takes two lines, the keyboard came up
+  for the search and went straight away again. It stays now.
+- **Faster search in long fics.** Results come a thousand at a time, in reading order, as
+  soon as they're found. Scroll to the end of the list for the next thousand. In
+  Shakespeare's Complete Works, a common word's first thousand come in a moment, where
+  listing them all took many seconds.
+
 ## Beta 202611120835 · 12 November 2026
 
 - **Search within a fic.** With the bars showing, swipe down on the top bar to search the
