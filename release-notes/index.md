@@ -7,6 +7,21 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611131850 · 13 November 2026
+
+This beta makes FiloFic faster, most of all with a big library.
+
+- **Faster importing.** A library's worth of fics imports in about half the time. A long
+  plain text, Markdown or HTML fic imports many times faster than before.
+- **Faster search.** FiloFic Search finds and shows its passages two to four times faster,
+  and no longer holds up the screen while it looks.
+- **A smoother library.** The library redraws less as you type a search, and stays put when
+  something it isn't showing changes, such as a star or a tag on another fic.
+- **Smoother fic pages.** A fic's page scrolls smoothly, and one with hundreds of chapters
+  opens straight away.
+- **Quicker reading.** Turning pages does less work, and the fic you're reading stays ready
+  to open while the rest of the library changes.
+
 ## Beta 202611130355 · 13 November 2026
 
 Everything new in this beta is in Boards, which are still being made and stay switched
