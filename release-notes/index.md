@@ -7,6 +7,33 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611130355 · 13 November 2026
+
+Everything new in this beta is in Boards, which are still being made and stay switched
+off unless you turn them on: Settings, then the ladybug (Developer), then Boards.
+
+- **Boards dress a fic's page.** Under its details, a fic's page shows a board's quote, its
+  soundtrack, its cast with their pictures, and its places and moments, over the board's
+  backdrop. Tap a board's card to pick the one that dresses the page, and tap it again to
+  take it off; FiloFic remembers your pick for each fic. The card's arrow opens the board.
+- **A closer look.** Tap a character, place or moment on a fic's page to see them large:
+  their pictures at full size, a swipe apart, the other names they go by, and how often the
+  fic names them. The arrow opens the board at them.
+- **Sound.** Add a sound to a board: one of FiloFic's own five, rain, fire, the sea, wind or
+  a night with crickets, or a sound file of your own from Files, such as an MP3. It plays on
+  while you read, and the reader's bar can stop it. A call stops it too.
+- **Quotes go back to their passage.** Tap a quote's chapter to open the fic there, the
+  words picked out for a moment. Back returns to the board.
+- **Names in the text.** The people and places on a fic's boards are linked as you read,
+  each with a card. A character's or place's tile says how often the board's fics name them.
+- **Suggestions from the fics' own words.** A new board offers the people and places its
+  fics keep naming, as well as those in their tags.
+- **Merge boards.** Merge brings other boards' items into this one, below its own, and Undo
+  takes it back.
+- **Fixes.** On iPad, a board made from a fic's page opens. A board's pictures stay when an
+  Undo puts their tile back. Long EPUBs naming a board's lead thousands of times open
+  quickly.
+
 ## Beta 202611121834 · 12 November 2026
 
 - **Search keeps the keyboard.** In a fic whose title takes two lines, the keyboard came up
