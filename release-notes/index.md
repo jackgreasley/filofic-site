@@ -7,6 +7,42 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611140246 · 14 November 2026
+
+This beta brings FiloFic into the rest of your iPhone and iPad. Nothing it adds shows a
+fic's title or cover anywhere outside FiloFic unless you turn that on, and FiloFic still
+never connects to the internet.
+
+- **From the Home Screen.** Touch and hold FiloFic's icon for Continue Reading, Search,
+  Import and Add Fic.
+- **Siri and Shortcuts.** Ask Siri to continue reading in FiloFic, or use FiloFic's actions
+  in the Shortcuts app and on the Action button. Import into FiloFic takes files a shortcut
+  hands it.
+- **Save to FiloFic.** Share a fic to FiloFic from Files, Mail, Messages or Safari: Safari
+  saves the page you're reading. It's added the next time you open FiloFic.
+- **Widgets.** Continue Reading shows how far through you are; Reading shows your streak and
+  today's minutes, on the Home Screen, the Lock Screen and in StandBy. A fic's title and
+  cover show only with Settings › Widgets › Show Titles on, and stay hidden while your iPhone
+  is locked.
+- **Control Center.** Continue Reading and Search FiloFic.
+- **Focus.** A Focus can hide explicit fics while it's on: Settings › Focus, then a Focus,
+  then Focus Filters.
+- **A reading reminder.** A gentle note on days you haven't read yet, at 8 pm unless you
+  choose another time, in Settings › Reading. Turn it off there.
+- **A discreet icon.** Settings › Appearance › App Icon.
+- **Translate.** Select words in a fic to translate them, or translate a whole chapter from
+  the reader's chapter menu, on your device.
+- **iPad.** FiloFic in more than one window, a fic in a window of its own, the menu bar and
+  keyboard commands for the library and the reader, and a button to bring back a hidden
+  sidebar.
+- **Boards' music** (with Boards on). A board's sound is now its music: songs or a playlist
+  from your Apple Music library, or a file of your own, with Open in Music. FiloFic's own
+  rain, fire, sea, wind and night are gone. Music plays on while you read the fic and stops
+  when you leave it.
+- **Opening a library in an older FiloFic.** If your library has been opened in a newer
+  FiloFic than the one you're using, FiloFic now tells you which version it needs and to
+  update, rather than opening it. Nothing in your library is changed.
+
 ## Beta 202611131850 · 13 November 2026
 
 This beta makes FiloFic faster, most of all with a big library.
