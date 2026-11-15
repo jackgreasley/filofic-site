@@ -7,6 +7,26 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611150943 · 15 November 2026
+
+- **For Later.** A long-term TBR, like a WIP to read once it's finished: a tag of
+  FiloFic's own on a fic's page, with a tab beside Reading. A fic for later no longer shows
+  in Where you left off.
+- **WIP.** A tab of the fics still being posted.
+- **Swipe Where you left off** to the right for Mark as Read or For Later, with Undo.
+- **Face ID, when you choose.** Settings › Face ID › Ask: Always, after 5 minutes, 30
+  minutes or an hour away, or Never. Locking your iPhone or iPad still locks the library.
+- **Cover colours.** Choose a Cover has a Colour row for FiloFic's own covers, and a
+  fandom's covers vary more among themselves.
+- **Search in Fic** has a button beside the bookmark on iPad and Mac.
+- **Translate.** Words already in your language ask what to translate them into, and
+  FiloFic no longer shows a blank sheet.
+- **Widgets** keep up with where you stopped reading, and show FiloFic's icon where a
+  hidden title would be.
+- **iPad.** The sidebar shows when FiloFic opens, in portrait too, and a pick there brings
+  the library back from Boards, the Calendar or You.
+- **Mac.** Icon menus no longer show a chevron, and the library's tabs wrap.
+
 ## Beta 202611140246 · 14 November 2026
 
 This beta brings FiloFic into the rest of your iPhone and iPad. Nothing it adds shows a
