@@ -7,6 +7,31 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611152337 · 15 November 2026
+
+- **Translate, redesigned.** It opens saying what to do rather than blank: choose a
+  language, the last three you used first. The languages show at the top, the words you
+  chose sit above their translation, and Copy is a tap away. A language iOS has yet to
+  download is said so first, every time, with a Download button. It's all in your reading
+  theme, and the ? says your fic is translated on your device and never leaves it.
+- **Lock Rotation** (iPhone). In a fic's Aa settings: the fic stays the way you're holding
+  your iPhone, portrait or landscape, even with rotation unlocked in Control Center.
+- **Big libraries.**
+  - Searching "In the text" no longer lets one long fic hide the others, and counts every
+    chapter it's found in.
+  - As you type a search, the last results show until the new ones are in, rather than
+    fics that don't match, under Tags, with the wrong counts.
+  - Deleting many fics at once goes a few at a time, so the library keeps working, and
+    stopping part way keeps what was deleted.
+  - Calendar, Boards and You catch up when you open them, rather than reading your whole
+    library after every change.
+  - The Authors, Tags and Fandoms tabs open quickly with hundreds of headings.
+  - Turning chapters in a big EPUB no longer holds up saving your place.
+- **Open in FiloFic.** A file opened while another was importing, or as your iPhone
+  locked, is no longer lost.
+- **Memory.** The fic ready for Resume lets go of a big EPUB when your iPhone is short of
+  memory, or when you leave FiloFic.
+
 ## Beta 202611150943 · 15 November 2026
 
 - **For Later.** A long-term TBR, like a WIP to read once it's finished: a tag of
