@@ -7,6 +7,20 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611160519 · 16 November 2026
+
+- **Enhanced date handling.**
+  - Sort the library by Newest or Oldest (when a fic was posted), Recently updated, First
+    added and First read, beside Recently added and Recently read.
+  - Filter & sort has Dates: the years a fic was posted in, and whether it was posted,
+    updated, added or read in the past week, month or year.
+  - The Calendar shows fics by when they were posted, last updated or added, as well as by
+    your reading: Read · Posted · Updated · Added, at every scale. All time lists them by
+    year, so the oldest and newest are easy to find.
+- **Translate no longer crashes** when a language isn't downloaded yet. It says to download
+  it in Settings › Apps › Translate, with Check Again, rather than opening iOS's download
+  sheet, which crashed on iOS 26.6.
+
 ## Beta 202611152337 · 15 November 2026
 
 - **Translate, redesigned.** It opens saying what to do rather than blank: choose a
