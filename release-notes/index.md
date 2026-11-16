@@ -7,6 +7,14 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611161008 · 16 November 2026
+
+- **Your own tags, apart from the author's.** A tag of your own can share a name with one a
+  fic's author gave it, so you can make your own Mature, with its emoji, rating and whether
+  it's shown, and put it on any fic. A fic's page shows Your tags, Default tags, FiloFic tags
+  and Author tags apart, and an author's tag can be added as your own from its menu.
+- An older beta can't open the library once this one has.
+
 ## Beta 202611160519 · 16 November 2026
 
 - **Enhanced date handling.**
