@@ -7,6 +7,22 @@ title: FiloFic Release Notes
 
 The newest release comes first.
 
+## Beta 202611170046 · 17 November 2026
+
+- **Search and filter, redesigned.**
+  - The order is a menu on the line above your fics, beside how many there are: eight
+    orders, and choosing the one you're on turns it round.
+  - Under search, one row of chips: Fandom first, then Reading, To Read, For Later, Loved
+    and Series, and a chip for each other filter that's on, which a tap takes off. With two
+    or more on, Clear takes them all off.
+  - Filters is one sheet: Progress, Status, Length, Rating and Tags as chips, more than one
+    at a time, then Fandom, Authors, Scores, Dates and Source a page each, every one with
+    its own Clear. Series only and Favourite authors are there too.
+- **Continue Reading widget.** With no board's backdrop it sits on FiloFic's icon colour,
+  with just the cover. With Show Titles on, the author is under the title.
+- **Translate no longer crashes on iOS 26.6.2.** It uses only the languages already on
+  your device, so iOS never opens a sheet of its own over FiloFic.
+
 ## Beta 202611161008 · 16 November 2026
 
 - **Your own tags, apart from the author's.** A tag of your own can share a name with one a
